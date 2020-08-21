@@ -1,4 +1,4 @@
-# Retargetting_ads
+# Retargeting_ads
 Analyzing the marketing strategy by retargetting the ads and optimizing the cost!
 
 a)Analyzed the ads strategy, optimized it and saw the relations about how other factors are influenced by it. 
